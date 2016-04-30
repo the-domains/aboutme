@@ -1,0 +1,28 @@
+name: aboutme
+favicon: null
+layout_spectrum: 0.6995908904355019
+typography_spectrum: 0.5958318468183279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9207380688749254
+  lightness: 0.9364636151585728
+  saturation: 0.6704206035938114
+  rhythmicContrast: 0.7527599094901234
+purpose: []
